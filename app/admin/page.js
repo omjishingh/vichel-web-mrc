@@ -201,6 +201,8 @@ export default function AdminPage() {
             </tbody>
           </table>
         </section>
+
+        <section className="panel-card">
           <div className="table-head">
             <h2>Users</h2>
             <form
